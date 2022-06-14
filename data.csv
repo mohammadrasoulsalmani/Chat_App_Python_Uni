@@ -1,0 +1,201 @@
+Question,Answer,store,key
+salam,"salam, khobi?",1,
+salam ,"salam, chetori?",1,
+salam,"salam, jan?",1,
+salam,"salam, amretoon?",1,
+salam,"salam, shoma?",1,
+salam,"salam, befarmaed",1,
+salam,"salam, janam?",1,
+salam,"salam, che khabar?",1,
+khoobi?,"bale, mamnoon",1,
+khoobi?,bale merci,1,
+khoobi?,merci,1,
+khoobi?,mamnoonam,1,
+khoobi?,"are, to khoobi?",1,
+khoobi?,bad nistam,1,
+khoobi?,"khobam, shoma khobi?",1,
+haletoon khobe?,"mamnoonam, merci, shoma khbi?",1,
+haletoon khoobe?,"bale, khoda ro shokr",1,
+haletoon khobe?,aliam mrci ,1,
+sabzi aash mikhaam,cheqadr?,3,sabzi
+mamnoonam shoma khobi?,"merci, chetor mitonam komaketoon konam?",1,
+mamnoonam shoma khobi?,"mamon, chetor mitonam komaketoon konam?",1,
+merci,"ghorboonet, chetor mitoonam komaket konam?",1,
+merci,"chkeram, chetor mitoonam komaket konam?",1,
+merci shoma khobi?,"zende bashid, mamnoon, mitonam komaki konam?",1,
+merci shoma khobi?,"ghorboonet, chetor mitoonam komaket konam?",1,
+mamnoon ,"merci, chetor mitonam komaketoon konam?",1,
+mamnoon,"mamon, chetor mitonam komaketoon konam?",1,
+1 kilo,chi mikhayn?,1,
+1 kilo ,chi mikhastin?,1,
+1 kilo mikhastam,"yaddash kardam, chiz digei ham mikhayn?",1,
+1 kilo mikhastam,"yaddash kardam, baz ham kharid darid?",1,
+kari nadari?,"na, rahat bash",1,
+kari nadari?,"na, merci",1,
+kari nadari?,"na, mamnoon",1,
+kari nadari?,na,1,
+chizi shode?,"na, chizi nashode, negaran nabash",1,
+khaste nabashid,"merci, shoma ham khaste nabashi",1,
+khaste nabashid,"khahesh mikonam, kari nakardam",1,
+kheili mamnoon,khahesh mikonam,1,
+bebakhshid mozahem shodam,khahesh mikonam befarmaed,1,
+mitoonam vaghteton ro begiram?,"bale , hatman",1,
+mishe?,bale,1,
+behtare?,"bale, behtare",1,
+ye soal daram,"janam, befarmaed",1,
+ye soal daram,jan?,1,
+hava chetore?,khoobe,1,
+hava chetore?,garme,1,
+hava chetore?,sarde,1,
+hava chetore?,bad nist,1,
+chetore?,alie,1,
+kafie?,bale,1,
+hamin?,bale,1,
+tamoom shod?,bale,1,
+nadarid?,"chera, darim",1,
+nadarid?,"kheyr, tamoom shode",1,
+doroste?,"bale, kamelan doroste",1,
+doroste?,"kheyr, dobare talash konid",1,
+hale?,bale,1,
+shoma khoonatoon moorche dare?,"na, nadare",1,
+anjam shod,mamnoon,2,
+sabzi mikhastam,chand kilo mikhayn?,3,sabzi
+sabzi mikhastam,cheqadr?,3,sabzi
+sabzi darin?,"bale ke darim, cheqadr mikhayn?",3,sabzi
+sabzi darin?,"bale, chand kilo?",3,sabzi
+sabzi lazem dashtam,chand kilo lazem darin?,3,sabzi
+sabzi lazem dashtam,cheqadr lazem darid?,3,sabzi
+goosht mikhastam,chand kilo mikhayn?,3,goosht
+goosht mikhastam,cheqadr?,3,goosht
+goosht darin?,"bale ke darim, cheqadr mikhayn?",3,goosht
+goosht darin?,"bale, chand kilo?",3,goosht
+goosht lazem dashtam,chand kilo lazem darin?,3,goosht
+goosht lazem dashtam,cheqadr lazem darid?,3,goosht
+chia darin?,"shoma mitoonin az foroshgah ma: goosht, sabzi nooshabe ,peste, roghan, shampo va dastmal daryatf konid",1,
+chia darin?," foroshgah ma daraye: goosht, sabzi nooshabe, peste, roghan, shampo va dastmal hast",1,
+na mamnoonam,khahesh mikonam,1,
+na merci,khahesh mikonam,1,
+noshabe mikham,bale chanta?,3,noshabe
+mojodi anbar,befarmayid,6,
+mojodi foroshgah,befarmayid,6,
+list,befarmayid,4,
+checklist,befarmayid,4,
+sorathesab,befarmayid,5,
+pardakht,ba movafaghiat anjam shod,7,
+darid,bale,1,
+noshabe mikham,chand botri?,3,noshabe
+noshabe darin?,bale,3,noshabe
+sorathesab mikham,befarmayid,5,
+ noshabe mikham,bale,3,noshabe
+sabzi ham darin?,bale,3,noshabe
+noshabe darin?,"bale, che brandi?",3,noshabe
+noshabe zard darin?,"na, moteasefane",1,
+goosht shoma taze hasr?,"bale, koshtar rooz hast",1,
+peste darin?,bale,3,peste
+peste mikham,"bale , chand kilo",3,peste
+peste mikham,cheqadr,3,peste
+peste rafsanjan darin?,bale,3,peste
+aya peste rafsanjan hast?,"kheyr, peste damqan hast",1,
+aya peste mojod darin?,bale,3,peste
+shampo zed shure darin?,"bale, che brandi?",3,shampo
+shampo zed rizesh darin?,"bale, che brandi?",3,shampo
+shampo baraye mooye charb darin?,"bale, che brandi?",3,shampo
+shampo baraye mooye khoshk darin?,"bale, che brandi?",3,shampo
+shampo bache darin?,"bale, che brandi?",3,shampo
+shampo mikham,"bale, chanta?",3,shampo
+shampo bache che brandi darin?,shampo bache golrang,3,shampo
+shampo golrang mikham,"bale, chanta?",3,shampo
+shampo golrang mojod darin?,"kheyr, nadarim",3,shampo
+peste kiloyi darin?,"na, baste e darim",1,
+peste baste e chand?,100 toman,3,peste
+peste sar baz mikham,"bale, chand kilo?",3,peste
+peste taze darin?,"bale, darim",3,peste
+shampo taghviati mikham,"bale, che brandi?",3,shampo
+dastmal darin,"bale, chand baste?",3,dastmal
+dastmal mikham ,"bale, chanta?",3,dastmal
+dastmal tovalet darin?,"bale, chanta?",3,dastmal
+dastmal kaqazi darin?,"bale, darim, chandta?",3,dastmal
+dastmal martub mikham,"bale, chand baste?",3,dastmal
+dastmal tovalet darin?,"bale, chandta?",3,dastmal
+roghan darin?,"bale, darim",3,roghan
+roghan mikham,che tedadi?,3,roghan
+roghan giyahi darin?,"bale, che tetad?",3,roghan
+roghan maye mikham ,chanta?,3,roghan
+roghan maye mikham ,"bale, che brandi?",3,roghan
+roghan jamed ham darid?,"bale, chand kilo?",3,roghan
+roghan jamed chand kiloyi darin?,"5 kiloyi, chandta mikhayn?",3,roghan
+roghan ladan lotfan,"bale, chandta?",3,roghan
+bale ,hale,1,
+noshabe pepsi lotfan,"bale, che tedad?",3,noshabe
+noshabe coca cola darin?,"bale, khanvade darim, chandta bedam?",3,noshabe
+noshabe koochik lotfan,"bale, chandta?",3,noshabe
+roghan koochik lotfan,hale,3,roghan
+roghan aftabgardoon bozorg lotfn,"moteasefam, nadarim",1,
+sorathesab lotfan,befarmayid,5,
+hesabam cheqadr shod?,befarmayid in ham sorathesab,5,
+hamin meghdar kafiye,"bale, sefaresh shoma sabt shod",2,
+hamin tedad?,bale,2,
+cheghadr mojod darin?,ziad :),6,
+taze hast?,bale,2,
+baste bandi dare?,"bale, chand kilo?",2,
+goosht bare darin?,bale cheqadr?,3,goosht
+goosht ham mojode?,"bale, mojod hast",3,goosht
+goosht baraye gheyme mikham,"bale, chand kilo?",3,goosht
+dastmal ashpazkhune ham darin?,"kheyr, faghat kaqazi darim",1,
+dastmal golriz mikham ,"bale, chand baste?",3,dastmal
+roghan zeytoon ham darid?,"bale, chand ta?",3,roghan
+roghan sorkh kardani lazem daram,"bale hatman, chandta?",3,roghan
+koochik,sabt shod,2,
+bozorg,sabt shod,2,
+roghan heyvani mikham ,moteasefane nadarim,1,
+sabzi ghorme sabzi darin?,"bale, chand kilo?",3,sabzi
+sabzi baste e darin?,"bale, cheqadr mikhayn?",3,sabzi
+shampo sehat lotfan,"bale, chandta?",3,shampo
+sabzi pak karde darin?,"bale, chand kilo",3,sabzi
+sabzi khurd shode darin?,"bale, chand baste?",3,sabzi
+baste e chand?,10 toman,2,
+goosht saleme?,"bale, motmaen bashid",1,
+sabzi khoshk mojod darin?,"kheyr, mojod nist",1,
+kahu darin?,na moteasefane,1,
+kahu va kalam mikham ,nadariim,1,
+shampo farsh lazem daram,"bale, chanta?",3,shampo
+shampo bache firooz darin?,"bale, chandta?",3,shampo
+shampo multi vitamin mikham,"bale, chandta?",3,shampo
+roghan pokht o paz mikham,"bale, che tedad?",3,roghan
+roghan kinjed ham mojod darin?,"bale, mojode",3,roghan
+roghan argan chande?,220 toman,1,
+roghan pak konande surat mikham ,mojod nist,1,
+shampo baraye masraf rooz lotfan,"bale, chandta mikhayn?",3,shampo
+faghat yek baste mikham,yek baste chi?,2,
+shampo badan chande,60 toman,1,
+peste shoor lotfan,bale chand kilo?,3,peste
+hamin meghdar?,bale,2,
+sefaresh man takmil shod?,"bale, alan sorathesab ersal mishe",5,
+emkan taghir sefaresh hast?,"bale, befarmayid",2,
+cheghadr pardakht knm?,alan sorathesab ersal mishe,5,
+peste dashtin sjoma?,"bale darim, chand kilo?",3,peste
+2 baste lazem daram,2 baste chi?,2,
+har baste chande?,bastegi dare,1,
+baste dastmal chand tayi hast?,"100 tayi, chand baste bedam?",3,dastmal
+shampo nrm konande mikham,"bale, chand adad?",3,shampo
+shampo abresan ham ezafe konid,che tedadi?,3,shampo
+aya shampo baraye moohaye asib dide mojod darid?,"kheyr, tamam shode",1,
+dige chizi lazem nadarm,"besiyar awli, sabt shod",2,
+dige chizi lazem nadarm,ba movafaghiat anjam shod,2,
+lotfan zood ersal konid,bale chashm,2,
+lotfan zood ersal konid,be zoodi ersal mishavad,2,
+khoda negahdar,khoda negahdar,9,
+bye,bye,9,
+amri nist?,"kheyr, felan",9,
+tamam,"byyyy",9,
+amri nist?,"kheyr, khoda negahdar",9,
+lotfan sefaresh ro barrasi knid,"bale, chashm",2,
+sefaresh man sabt shode?,"bale, sabt shod",2,
+sefaresh man sabt shode?,"bale, dar dast eghdame",2,
+sefaresh man sabt shode?,"bale, be zoodi ersal mishe",2,
+lotfan list kharid bedid,befarmayid,4,
+list midid?,"bale, befarmayid",4,
+list ro check mikonid?,"bale, befarmayid",4,
+kolan cheghadr shod?,list kharid kol ersal mishe,8,
+kolan cheghadr?,list hazinahe ersam mishe,8,
+list kharid va hazine ha lotfan,"bale, befarmayid",8,
